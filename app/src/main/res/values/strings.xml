@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Beatmaster</string>
+
+    <string name="title">Beatmaster</string>
+    <string name="creator">Cretor of This App</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="about">About This App</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="about_text">
+        This App Is Created By:-\n\n
+        Divyanshu Sain\ndivyanshu.21jics179@jietjodhpur.ac.in\n21EJICS045\nCS/21/179\n\nDigvijay kachhawaha\ndigvijaykachhawaha0087@gmail.com\n21EJICS041\nCS/21/003\n\nDivyansh Mittal\ndivyansh.21jics171@jietjodhpur.ac.in\n21EJICS043\nCS/21/171\n\nAlokik saxena \nalokik.21jics046@jietjodhpur.ac.in\n21EJICS014\nCS/21/046
+    </string>
+    <string name="ok">OK</string>
+    <string name="start_time">0.00</string>
+    <string name="final_time">0.00</string>
+    <string name="search_hint">Song Name</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text"> Are you sure you want to delete</string>
+    <string name="play_next">Play Next</string>
+</resources>
